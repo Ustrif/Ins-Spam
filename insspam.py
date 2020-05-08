@@ -160,7 +160,7 @@ $$$$$$/ $$/   $$/ $$$$$$$/         $$$$$$/  $$$$$$$/   $$$$$$$/ $$/  $$/  $$/
                                     self.browser.find_element_by_xpath("//*[@id='react-root']/div/ul/li[2]").click()
 
                                 time.sleep(0.3)
-                                print(Fore.GREEN + "Atak başarılı!" + Style.RESET_ALL)
+                                print(Fore.GREEN + "* Atak başarılı!" + Style.RESET_ALL)
                                 self.browser.quit()
     insgir()
 
