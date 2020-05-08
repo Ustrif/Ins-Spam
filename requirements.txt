@@ -1,0 +1,3 @@
+# https://github.com/Ustrif/Ins-Spam/ 'ın ekidir.
+colorama
+selenium
