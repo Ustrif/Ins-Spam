@@ -12,7 +12,7 @@ Bu linki chrome da açarak görebilirsiniz.Bendeki güncelleniyor ancak buradaki
 
 ![Image description](https://i.hizliresim.com/3IwRfH.png)
 
-Yazılım ile aynı klasöre attığınız, kullanicilar.txt ye kullanıcı adlarını alt alta gelecek şekilde, şifreler.txt ye kullanıcıların sırasıyla şifreleri gelecek şekilde alt alta yerleştirin.
+Yazılım ile aynı klasöre attığınız chromedriver'ı birde C:\Windows\System32 klasörüne atınız.kullanicilar.txt ye kullanıcı adlarını alt alta gelecek şekilde, şifreler.txt ye kullanıcıların sırasıyla şifreleri gelecek şekilde alt alta yerleştirin.
 
 Sonra Shift tuşuna basılı tutarak bulunduğunuz dizinde sağ tıklama yapın. Powershell ya da Cmd yi burada açın seçeneğine tıklayın.
 
